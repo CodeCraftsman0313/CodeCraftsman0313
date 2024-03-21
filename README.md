@@ -2,14 +2,16 @@
 
 ## 🚀 About Me
 
-🎓 I am a **Senior Full Stack Web Developer** <br>
+🎓 I am a **Senior Full Stack Web Developer** who builds and deploys web apps for various domains and platforms. <br>
 I have a bachelor's degree in **Computer Science and Technology**.<br>
 With a proven track record of creative problem-solving, unseen productivity, and mentorship, I excel in delivering solid solutions within tight timelines. <br>
 Whether it's a straightforward project or a complex challenge, you can count on me to quickly pick up and learn new skills, even when there isn't a clear solution in sight.<br>
 
 👍 Client satisfaction is my top priority, and I consider a project successful only when my clients are fully content with the outcome. <br>
 I place great emphasis on clear and consistent communication, ensuring that my clients and I are always on the same page. <br>
-I believe in providing quality services to quality clients, recognizing the value of fair compensation for excellent work.<br>
+I believe in providing quality services to quality clients, and recognizing the value of fair compensation for excellent work.<be>
+
+I am always keen to learn new skills and face new challenges in web development.
 
 <br>
 
